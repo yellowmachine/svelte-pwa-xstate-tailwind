@@ -7,7 +7,9 @@
 <main>
   <!--<img src={logo} alt="Svelte Logo" />-->
   <img src="/favicon.svg" alt="PWA Logo" width="60" height="60"/>
-  <h1>Hello world!</h1>
+  <h1>Hello world!!!</h1>
+
+  <button class="btn btn-warning">Warning</button>
 
   <Counter />
 
