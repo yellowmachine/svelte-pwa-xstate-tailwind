@@ -7,6 +7,7 @@ export default defineConfig({
   plugins: [
     svelte(),
     VitePWA({ 
+      includeAssets: ['favicon.svg'],
       manifest: {
         name: 'Demo PWA',
         short_name: 'DemoPWA',

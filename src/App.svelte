@@ -1,11 +1,12 @@
 <script>
-  import logo from './assets/svelte.png'
+  //import logo from './assets/svelte.png'
   import Counter from './lib/Counter.svelte'
   import ReloadPrompt from './lib/ReloadPrompt.svelte'
 </script>
 
 <main>
-  <img src={logo} alt="Svelte Logo" />
+  <!--<img src={logo} alt="Svelte Logo" />-->
+  <img src="/favicon.svg" alt="PWA Logo" width="60" height="60"/>
   <h1>Hello world!</h1>
 
   <Counter />
@@ -21,7 +22,7 @@
   </p>
 </main>
 
-<div>aqui añado cosas ... (1)</div>
+<div>aqui añado cosas ... (2)</div>
 
 <ReloadPrompt />
 
