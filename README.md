@@ -5,4 +5,10 @@ I have followed [Vite PWA guide](https://vite-plugin-pwa.netlify.app/) because t
 The master branch is Svelte + Vite + xstate + PWA
 The tailwind branch adds TailwindCSS
 
+Example:
+
+```bash
+degit yellowmachine/svelte-pwa-xstate-tailwind#tailwindcss mynewproject
+```
+
 Let me know any error.
